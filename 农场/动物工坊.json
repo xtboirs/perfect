@@ -1,0 +1,82 @@
+{
+  "金鸡工坊": {
+    "金鸡蛋制作": {
+      "物品列表": [
+        {
+          "蓝图": "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalResource_JJD.PrimalResource_JJD'",
+          "数量": 10
+        }
+      ]
+    }
+  },
+  "金鹅工坊": {
+    "金鹅蛋制作": {
+      "物品列表": [
+        {
+          "蓝图": "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalResource_JED.PrimalResource_JED'",
+          "数量": 10
+        }
+      ]
+    }
+  },
+  "金蟾工坊": {
+    "金蟾蛋制作": {
+      "物品列表": [
+        {
+          "蓝图": "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalResource_JCD.PrimalResource_JCD'",
+          "数量": 5
+        }
+      ]
+    }
+  },
+  "金猪工坊": {
+    "金猪沙制作": {
+      "物品列表": [
+        {
+          "蓝图": "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalResource_JZS.PrimalResource_JZS'",
+          "数量": 5
+        }
+      ]
+    }
+  },
+  "金羊工坊": {
+    "金羊毛制作": {
+      "物品列表": [
+        {
+          "蓝图": "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalResource_JYM.PrimalResource_JYM'",
+          "数量": 5
+        }
+      ]
+    }
+  },
+  "金鹿工坊": {
+    "金鹿角制作": {
+      "物品列表": [
+        {
+          "蓝图": "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalResource_JLJ.PrimalResource_JLJ'",
+          "数量": 3
+        }
+      ]
+    }
+  },
+  "金马工坊": {
+    "金马蹄制作": {
+      "物品列表": [
+        {
+          "蓝图": "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalResource_JMT.PrimalResource_JMT'",
+          "数量": 3
+        }
+      ]
+    }
+  },
+  "金牛工坊": {
+    "金牛角制作": {
+      "物品列表": [
+        {
+          "蓝图": "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalResource_JNJ.PrimalResource_JNJ'",
+          "数量": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "金羊直接掉落": {
+    "总掉落率": 0.5,
+    "是否随机": true,
+    "是否重复": false,
+    "掉落数量": 1,
+    "物品列表": [
+      {
+        "物品蓝图": "Blueprint'/Game/Mods/ARKPerfect/Farm/Animal/PrimalSummon_JJ.PrimalSummon_JJ'",
+        "最小数量": 1,
+        "最大数量": 1,
+        "掉落权重": 1,
+        "是否图纸": false
+      },
+	  {
+        "物品蓝图": "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalResource_JJD.PrimalResource_JJD'",
+        "最小数量": 1,
+        "最大数量": 5,
+        "掉落权重": 2,
+        "是否图纸": false
+      },
+      {
+        "物品蓝图": "Blueprint'/Game/Mods/ARKPerfect/Farm/Kibble/PrimalKibble_JJ.PrimalKibble_JJ'",
+        "最小数量": 1,
+        "最大数量": 50,
+        "掉落权重": 2,
+        "是否图纸": false
+      }
+    ]
+  },
+  "金羊掉落库存": {
+    "掉落条目最小数量": 1,
+    "掉落条目最大数量": 2,
+    "掉落条目是否覆盖": true,
+    "掉落条目分组列表": [
+      {
+        "分组名称": "如材料-备注无实际用处",
+        "最小数量": 1,
+        "最大数量": 2,
+        "获得权重": 1,
+        "分组物品列表": [
+          {
+            "列表名称": "如-集成物品-备注用-无实际作用",
+            "获得权重": 2,
+            "最小数量": 1,
+            "最大数量": 10,
+            "最小品质": 0,
+            "最大品质": 1,
+            "给与蓝图的概率": 0,
+            "强制给与蓝图": false,
+            "数量设置为单个物品数量": false,
+            "物品列表": [
+              "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalBag_JGB.PrimalBag_JGB' 2",
+              "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalBag_SCB.PrimalBag_SCB' 1",
+              "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalBag_XRB.PrimalBag_XRB' 1"
+            ]
+          },
+          {
+            "列表名称": "如-官方物品-备注用-无实际作用",
+            "获得权重": 1,
+            "最小数量": 1,
+            "最大数量": 1,
+            "最小品质": 0,
+            "最大品质": 1,
+            "给与蓝图的概率": 0,
+            "强制给与蓝图": false,
+            "数量设置为单个物品数量": false,
+            "物品列表": [
+              "Blueprint'/Game/Mods/ARKPerfect/Farm/Resource/PrimalBag_VCB.PrimalBag_VCB' 1",
+              "Blueprint'/Game/Mods/ARKPerfect/Farm/Crop/PrimalVegetable_NG.PrimalVegetable_NG' 1"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
