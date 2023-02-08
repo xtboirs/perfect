@@ -1,0 +1,128 @@
+{
+  "Boss1": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss2": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss3": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss4": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss5": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss6": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss7": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss9": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss10": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss11": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss12": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss13": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss14": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss15": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss16": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss17": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss19": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  },
+  "Boss20": {
+    "召唤恐龙": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "召唤等级": 666,
+    "最低等级": 99,
+    "最高等级": 999,
+    "是否驯服": false
+  }
+}

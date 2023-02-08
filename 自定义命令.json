@@ -1,0 +1,16 @@
+{
+  "管理面板命令配置": {
+    "创意模式": "Cheat gcm",
+    "飞行模式": "Cheat fly",
+    "泰克套装": "Cheat GiveItem \"Blueprint'/Game/Mods/ARK866/Armor/TekArmor/PrimalArmor_Red_TekBoots.PrimalArmor_Red_TekBoots\" 1 0 0|\nCheat GiveItem \"Blueprint'/Game/Mods/ARK866/Armor/TekArmor/PrimalArmor_Red_TekGloves.PrimalArmor_Red_TekGloves\" 1 0 0|\nCheat GiveItem \"Blueprint'/Game/Mods/ARK866/Armor/TekArmor/PrimalArmor_Red_TekHelmet.PrimalArmor_Red_TekHelmet\" 1 0 0|\nCheat GiveItem \"Blueprint'/Game/Mods/ARK866/Armor/TekArmor/PrimalArmor_Red_TekPants.PrimalArmor_Red_TekPants\" 1 0 0|\nCheat GiveItem \"Blueprint'/Game/Mods/ARK866/Armor/TekArmor/PrimalArmor_Red_TekShirt.PrimalArmor_Red_TekShirt\" 1 0 0|",
+    "显示管理图标": "Cheat setadminicon True",
+    "红色泰克套": "Cheat setadminicon True",
+    "绿色泰克套": "Cheat setadminicon True",
+    "青色泰克套": "Cheat setadminicon True",
+    "白色泰克套": "Cheat setadminicon True",
+    "紫色泰克套": "Cheat setadminicon True",
+    "黑色泰克套": "Cheat setadminicon True",
+    "礼包100": "Cheat setadminicon True",
+    "新手包200": "Cheat setadminicon True"
+  }
+}

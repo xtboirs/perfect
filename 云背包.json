@@ -1,0 +1,10 @@
+{
+  "完美云背包授权": {
+    "76561199129703684": 20,
+	"76561199235912454": 20
+  },
+  "完美云背包黑名单": [
+    "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'",
+    "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
+  ]
+}

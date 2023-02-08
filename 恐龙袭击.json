@@ -1,0 +1,74 @@
+{
+  "完美集成袭击配置": {
+    "袭击开关": false,
+    "袭击龙覆盖死亡库存": true,
+    "袭击简单建筑数量": 10000,
+    "袭击中等建筑数量": 20000,
+    "袭击困难建筑数量": 30000,
+    "袭击每波生物数量": 2,
+    "袭击间隔时间": 100,
+    "袭击时间可变性": 200,
+    "袭击警告时间": 10,
+    "袭击每波之间的时间": 3,
+    "袭击刷新距离": 10000,
+    "袭击部队超时": 600,
+    "袭击简单最低等级": 100,
+    "袭击简单最高等级": 200,
+    "袭击中等最低等级": 200,
+    "袭击中等最高等级": 500,
+    "袭击困难最低等级": 500,
+    "袭击困难最高等级": 500,
+    "袭击龙生命倍数": 50,
+    "袭击龙攻击倍数": 20,
+    "袭击龙移速倍数": 10,
+    "袭击简单龙列表": "Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_A.Dino_Elves_A',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_G.Dino_Elves_G',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_H.Dino_Elves_H',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_J.Dino_Elves_J',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_M.Dino_Elves_M',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_S.Dino_Elves_S'Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_T.Dino_Elves_T',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithBow.Dino_WithBow',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekGrenades.Dino_WithTekGrenades',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekRifle.Dino_WithTekRifle'",
+    "袭击中等龙列表": "Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_A.Dino_Elves_A',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_G.Dino_Elves_G',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_H.Dino_Elves_H',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_J.Dino_Elves_J',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_M.Dino_Elves_M',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_S.Dino_Elves_S'Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_T.Dino_Elves_T',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithBow.Dino_WithBow',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekGrenades.Dino_WithTekGrenades',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekRifle.Dino_WithTekRifle',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JC.Dino_Wild_JC',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JE.Dino_Wild_JE',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JJ.Dino_Wild_JJ',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JL.Dino_Wild_JL',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JM.Dino_Wild_JM',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JN.Dino_Wild_JN',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JY.Dino_Wild_JY',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JZ.Dino_Wild_JZ',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithBow.Dino_WithBow',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekGrenades.Dino_WithTekGrenades',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekRifle.Dino_WithTekRifle'",
+    "袭击困难龙列表": "Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_A.Dino_Elves_A',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_G.Dino_Elves_G',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_H.Dino_Elves_H',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_J.Dino_Elves_J',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_M.Dino_Elves_M',Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_S.Dino_Elves_S'Blueprint'/Game/Mods/ARK866/Dinos/TheElves/Dino_Elves_T.Dino_Elves_T',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithBow.Dino_WithBow',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekGrenades.Dino_WithTekGrenades',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekRifle.Dino_WithTekRifle',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JC.Dino_Wild_JC',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JE.Dino_Wild_JE',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JJ.Dino_Wild_JJ',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JL.Dino_Wild_JL',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JM.Dino_Wild_JM',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JN.Dino_Wild_JN',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JY.Dino_Wild_JY',Blueprint'/Game/Mods/ARK866/Farm/Boss/Dino_Wild_JZ.Dino_Wild_JZ',Blueprint'/Game/Mods/ARK866/Dinos/SpiritAnimal/Dino_HLS_Child.Dino_HLS_Child',Blueprint'/Game/Mods/ARK866/Dinos/SpiritAnimal/Dino_JLS_Child.Dino_JLS_Child',Blueprint'/Game/Mods/ARK866/Dinos/SpiritAnimal/Dino_MLS_Child.Dino_MLS_Child',Blueprint'/Game/Mods/ARK866/Dinos/SpiritAnimal/Dino_SLS_Child.Dino_SLS_Child',Blueprint'/Game/Mods/ARK866/Dinos/SpiritAnimal/Dino_TLS_Child.Dino_TLS_Child',Blueprint'/Game/Mods/ARK866/Dinos/LanternBird/Dino_LanternBird_H_Child.Dino_LanternBird_H_Child',Blueprint'/Game/Mods/ARK866/Dinos/LanternBird/Dino_LanternBird_J_Child.Dino_LanternBird_J_Child',Blueprint'/Game/Mods/ARK866/Dinos/LanternBird/Dino_LanternBird_M_Child.Dino_LanternBird_M_Child',Blueprint'/Game/Mods/ARK866/Dinos/LanternBird/Dino_LanternBird_S_Child.Dino_LanternBird_S_Child',Blueprint'/Game/Mods/ARK866/Dinos/LanternBird/Dino_LanternBird_T_Child.Dino_LanternBird_T_Child',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithBow.Dino_WithBow',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekGrenades.Dino_WithTekGrenades',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekRifle.Dino_WithTekRifle',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithBow.Dino_WithBow',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekGrenades.Dino_WithTekGrenades',Blueprint'/Game/Mods/ARK866/Dinos/Human/Dino_WithTekRifle.Dino_WithTekRifle'"
+  },
+  "困难袭击龙掉落": {
+    "掉落条目最小数量": 1,
+    "掉落条目最大数量": 2,
+    "掉落条目是否覆盖": true,
+    "掉落条目分组列表": [
+      {
+        "分组名称": "如材料-备注无实际用处",
+        "最小数量": 1,
+        "最大数量": 2,
+        "获得权重": 1,
+        "分组物品列表": [
+          {
+            "列表名称": "如-集成物品-备注用-无实际作用",
+            "获得权重": 1,
+            "最小数量": 1,
+            "最大数量": 3,
+            "最小品质": 0,
+            "最大品质": 1,
+            "给与蓝图的概率": 0,
+            "强制给与蓝图": false,
+            "数量设置为单个物品数量": false,
+            "物品列表": [
+              "Blueprint'/Game/Mods/ARK866/Items/Goods/Spirit/PrimalResource_WSLD.PrimalResource_WSLD' 1",
+              "Blueprint'/Game/Mods/ARK866/Items/Goods/Spirit/PrimalResource_WSLS.PrimalResource_WSLS' 1",
+              "Blueprint'/Game/Mods/ARK866/Items/Goods/Spirit/PrimalResource_WSLY.PrimalResource_WSLY' 1"
+            ]
+          },
+          {
+            "列表名称": "如-官方物品-备注用-无实际作用",
+            "获得权重": 1,
+            "最小数量": 1,
+            "最大数量": 3,
+            "最小品质": 0,
+            "最大品质": 1,
+            "给与蓝图的概率": 0,
+            "强制给与蓝图": false,
+            "数量设置为单个物品数量": false,
+            "物品列表": [
+              "Blueprint'/Game/Mods/ARK866/Items/Goods/Spirit/PrimalItemSA_JLS.PrimalItemSA_JLS' 1",
+              "Blueprint'/Game/Mods/ARK866/Items/Goods/Spirit/PrimalItemSA_JLD.PrimalItemSA_JLD' 1"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

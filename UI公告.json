@@ -1,0 +1,131 @@
+{
+    "ServerName": "完美集成",
+    "ButtonTxt1": "主页",
+    "ButtonTxt2": "规则",
+    "ButtonTxt3": "团队",
+    "ButtonTxt4": "帮助",
+    "LinkButtonTxt1": "官方网站",
+    "LinkButtonTxt2": "交流群",
+    "LinkButtonTxt3": "",
+    "LinkButtonTxt4": "",
+    "LinkButtonTxt5": "",
+    "LinkButton1": "https://ark.cmsp.com/",
+    "LinkButton2": "https://jq.qq.com/?_wv=1027&k=Dhc9s6o8",
+    "LinkButton3": "",
+    "LinkButton4": "",
+    "LinkButton5": "",
+    "Tab1Panelcount": 2,
+    "Tab2Panelcount": 3,
+    "Tab3Panelcount": 2,
+    "Tab4Panelcount": 1,
+    "Tab5Panelcount": 1,
+    "BackgroundTab1": 0,
+    "BackgroundTab2": 1,
+    "BackgroundTab3": 2,
+    "BackgroundTab4": 3,
+    "Background1Color": "0,0,0,0.5",
+    "Background2Color": "0,0,0,0.5",
+    "Background3Color": "0,0,0,0.5",
+    "Background4Color": "0,0,0,0.5",
+    "FontColorButtons": "255,255,255",
+    "FontColorServerName": "240,0,0",
+    "FontColorTabTitles": "0,0,240",
+    "FontColorTabText": "255,255,255",
+    "UseSteamBrowserLink1": false,
+    "UseSteamBrowserLink2": false,
+    "Tab1Title1": "动态",
+    "Tab1Title2": "完美服",
+    "Tab2Title1": "",
+    "Tab2Title2": "VIP",
+    "Tab2Title3": "Building",
+    "Tab2Title4": "World",
+    "Tab3Title1": "Our Team",
+    "Tab3Title2": "Join Us",
+    "Tab4Title1": "Help and Support",
+    "Tab1Text1": "[2022-12-26] Welcome back, Legions! We know it has been some time since we shut the servers down. We apologize for the downtime. The holidays created a chaotic time for our team members, but we're happy to be back! And with the reemergence of our servers, we bring you some big changes! We hope you enjoy the new mod list!",
+    "Tab1Text2": "Welcome to The 7 Legions!
+
+Our servers provide a familiar Ark experience, featuring combat, dino taming, map exploration, crafting, base building, and the thrill of discovery, all while aiming to improve quality of life for all of our players. Overall, our servers are configured to offer a relaxed gaming experience, with experience rates, harvest rates, engram points, taming/eggs/maturation/mating rates, and much more tweeked for your enjoyment. In addition, enjoy our 7 Legions ARK cluster, featuring:
+
+* Ragnarok
+* The Island
+* Fjordur
+* Abberation
+* Crystal Isles
+* Genesis 2
+
+We hope you enjoy your time with us! Have fun!",
+    "Tab2Text1": "在我们的服务器上玩游戏时，我们要求您尊重他人并保持成熟的态度。
+
+1） 保持冷静：不要侮辱、欺骗、胡说八道或诽谤他人。不要在全球或公共渠道提出有争议的话题。此外，即使是在私人渠道中，在提出争议话题之前，也要询问是否可以。
+
+2） 不允许使用巨魔。没有故意的谩骂、装傻、胡言乱语或公然撒谎。我们是一群有着相似兴趣的人，只是来这里玩得开心。我们不容忍虐待行为。这不是试图从别人身上获得晋升的地方。
+
+3） 不要伤害我们的团队成员。我们的交流群上有一个支持票系统。去那里拜访我们，并提交一张机票寻求帮助。
+
+4） 禁止泄露：我们不允许泄露任何人的敏感信息或个人信息。
+
+5） 使用适当的幸存者姓名。没有空白名称，没有长名称，没有URL名称，名称中没有非ASCII Unicode字符。包含非标准字符或表情符号的名称可能会更改管理员名称。
+
+6） 没有广告。没有推荐链接。禁止购买/出售/交易任何实物或金钱。
+
+7） 我们不允许玩家使用我们的平台向其他Discord服务器、游戏社区或游戏服务器发送邀请。
+
+8） 使用常识。如果你在做你认为错误的事情，它很可能会引起管理员的注意。
+
+9） 在全球聊天中使用英语。如果你需要说另一种语言，可以使用耳语、部落或联盟聊天。",
+    "Tab2Text2": "1) VIP玩家捐款后，我们团队赠送感谢礼物。这些感谢礼物就是为了表达对捐款玩家的感谢。然而，《方舟》有几个游戏功能，允许VIP捐赠者利用一些感谢礼物为其他玩家生产恐龙或资源，而不需要VIP玩家付出任何代价。请理解这是不允许的。因此，除非另有说明，以下规则适用于与vip相关的物品和恐龙:
+
+| - VIP玩家可以在有机会的时候繁殖VIP专属恐龙，但VIP专属恐龙的后代也被认为是VIP专属，不能与其他玩家共享
+
+| - VIP玩家只能与部落成员分享他们收到的任何基地家具作为感谢礼物
+
+| -所有其他VIP物品或VIP专属物品只能由最初收到它们的VIP玩家使用",
+    "Tab2Text3": "1)每个部落最多只能有一个50x50的主基地和一个20x20的水上养殖平台。
+
+2)没有支柱或粉底垃圾。
+
+3)不能在神器洞穴中建造建筑，也不能用基地堵住洞穴入口。这包括放置传送——在神器洞穴或洞穴入口不允许传送。
+
+4)你的基地应该在其他人基地的渲染范围之外。
+
+5)不允许在事件地图上建造",
+    "Tab2Text4": "1)所有玩家必须是某个部落的一员。单人玩家必须创建一个部落才能满足这一要求。
+
+2)如果您是我们的Discord服务器的成员，您的Discord服务器昵称必须与您的ARK幸存者名称相同。
+
+3)如果要躲避攻击你的恐龙，不要靠近其他部落的基地。你要为对其他部落基地造成的破坏负责。
+
+4)部落一次最多可以放30只恐龙。我们的服务器使用了Dino Storage V2 mod，它将灵魂终端引入到游戏中。我们还启用了所有自动化功能。把你多余的恐龙装进灵魂球，然后把它们存储在灵魂终端，在那里它们会被动地生产它们的恐龙特定资源。你不需要让恐龙们出去耕种他们的资源。
+
+5)除了30只恐龙的限制外，你可以放置4个Gacha，但它们必须在你基地的S+ Gacha Gavagers中保存。
+
+6)不允许在事件地图上建造",
+    "Tab3Text1": "欢迎加入完美方舟团队!
+
+(服务器所有者)
+太浪
+
+[方舟管理员]
+莉莉水獭
+(ARK管理员)
+
+(ARK插件)
+
+[完美开发者]
+太浪 小布
+
+(ARK开发人员)",
+    "Tab3Text2": "我们招聘!
+
+申请加入我们的团队，请访问我们的网站https://ark.cmsp.com。您将收到来自我们的应用程序机器人的消息，它将指导您完成申请过程。",
+    "Tab3Text3": "",
+    "Tab4Text1": "如果你在游戏中遇到麻烦或其他玩家骚扰你，请访问我们的Discord服务器https://jq.qq.com/?_wv=1027&k=Dhc9s6o8。在那里，您可以使用我们的支持票渠道提交支持票。
+
+在提交支持票时，请明确您的问题。此外，如果有其他玩家骚扰你，请在提出索赔时收集骚扰证据。这将使我们更容易进行调查。",
+    "Tab4Text2": "",
+    "Tab4Text3": "",
+    "Tab5Text1": "",
+    "Tab5Text2": "",
+    "Tab5Text3": ""
+}
